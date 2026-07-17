@@ -1,0 +1,9 @@
+Durante el curso aprendí cómo la tecnología puede fortalecer la participación ciudadana y la organización comunitaria. 
+Comprendí la importancia de las bases de datos para registrar información de forma ordenada y segura. 
+También aprendí que un backend permite recibir y procesar las solicitudes de los usuarios. 
+Entendí que la generación automática de documentos facilita la creación de peticiones formales.
+ Además, conocí herramientas como n8n y Telegram para automatizar notificaciones y mejorar el seguimiento de eventos. 
+ Aprendí que es fundamental proteger los datos personales y recopilar solo la información necesaria.
+  El curso me permitió integrar diferentes componentes tecnológicos en una solución sencilla y útil para la comunidad.
+   Ahora entiendo mejor cómo la programación puede ayudar a resolver problemas reales de forma responsable.
+   

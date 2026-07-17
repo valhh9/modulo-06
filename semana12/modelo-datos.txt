@@ -1,0 +1,17 @@
+Modelo de datos simple
+
+Entidad: Causa
+- id
+- titulo
+- descripcion
+- fecha
+
+Esta entidad almacena la información principal de la causa creada por un ciudadano.
+
+Entidad: Apoyo
+- id
+- causa_id
+- nombre
+- fecha
+
+Esta entidad registra los apoyos realizados por los ciudadanos y se relaciona con la causa mediante el campo causa_id.
